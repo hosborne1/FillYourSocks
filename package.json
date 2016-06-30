@@ -1,0 +1,14 @@
+{
+  "name": "socket_server",
+  "version": "1.0.0",
+  "description": "socket server",
+  "main": "SocketServer.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node SocketServer.js"
+  },
+  "author": "h",
+  "license": "ISC"
+}
